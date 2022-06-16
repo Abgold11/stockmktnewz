@@ -17,20 +17,12 @@
   h3 {
     text-align: center;
     margin: 0;
+      
   }
-  
-  h1 {
-    font-size: 96px;
-  }
-  
-  h2 {
-    font-size: 48px;
-  }
-  
-  h3 {
-    font-size: 24px;
-    opacity: 0.7;
-  }
+
+ .headings { 
+     color: var(--secondary-color)}
+ 
   
   p {
     background: var(--secondary-color);
@@ -39,6 +31,8 @@
     font-size: 18px;
     line-height: 1.5;
     text-align: center;
+    
+    
   }
   
   .navigation-links {
@@ -103,5 +97,14 @@
   }
   
   footer {
-      padding-top: 20px;
-  }
+        
+        height: 100px;
+        bottom: 0;
+        width: 100%;
+        color: #f5f2fe;
+    }
+  
+
+  .copyright {font-size: large;
+font-weight: 500;}
+
