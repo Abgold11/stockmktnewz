@@ -21,7 +21,8 @@
   }
 
  .headings { 
-     color: var(--secondary-color)}
+     color: var(--secondary-color);
+    margin-top: 50px;}
  
   
   p {
@@ -96,16 +97,11 @@
     display: inline-block;
   }
   
-  footer {
-        
-        height: 30px;
-        bottom: 0;
-        width: 100%;
-        color: #f5f2fe;
-    }
+ 
   
 
   .copyright {font-size: large;
 font-weight: 500;}
 
+.linktree { line-height: 3.5;}
 
